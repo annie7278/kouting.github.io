@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[test]]></title>
     <url>%2F2018%2F07%2F09%2Ftest%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[Hellofirst markdown file]]></content>
       <tags>
         <tag>test only</tag>
       </tags>
